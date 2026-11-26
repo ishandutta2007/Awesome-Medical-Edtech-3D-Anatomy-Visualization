@@ -58,9 +58,9 @@ Sorted in descending order by parent company size (market valuation / annual com
 
 ## 🔓 Open-Source Projects
 
-Sorted in descending order by GitHub repository star counts. Star badges link directly to the stargazers of each respective repository. ⭐
+Sorted in descending order by GitHub repository Stars_Counts. Stars_Badges link directly to the stargazers of each respective repository. ⭐
 
-| Project | ⭐ Stars | 🛠️ Tech Stack / Format | 📝 Description & Highlights |
+| Project | ⭐ GitHub_Stars | 🛠️ Tech Stack / Format | 📝 Description & Highlights |
 | :--- | :--- | :--- | :--- |
 | **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** | [![Stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=social&color=white)](https://github.com/wheresryan22/anatomy/stargazers) | TypeScript, Three.js, WebGL | Lightweight, web-based interactive human anatomy model viewer allowing smooth camera rotations, structural labeling, and isolated muscle/bone inspection. 🔍 |
 | **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** | [![Stars](https://img.shields.io/github/stars/ashemag/human-atlas?style=social&color=white)](https://github.com/ashemag/human-atlas/stargazers) | JavaScript, Three.js, BodyParts3D | Open-source 3D human anatomy explorer utilizing BodyParts3D reference geometry; features layer toggling, organ isolation, exploded views, and search. 🗺️ |
